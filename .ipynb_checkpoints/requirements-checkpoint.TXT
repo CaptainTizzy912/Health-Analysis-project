@@ -1,0 +1,7 @@
+## Tools Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
