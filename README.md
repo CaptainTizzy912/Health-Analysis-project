@@ -19,3 +19,9 @@ A Logistic Regression model was trained to predict the likelihood of heart disea
 
 ## Author
 Toliha Abiodun Ahmad
+
+## EMAIL
+tolihaabiodun38@gmail.com
+
+## LinkedIn Profile
+https://www.linkedin.com/in/toliha-ahmad-a7a49730a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
